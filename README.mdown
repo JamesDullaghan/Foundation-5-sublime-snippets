@@ -30,22 +30,22 @@
 
 ##### Example Usage:
 
-`zf-offcanvas` + `tab`
-`zf-topbar` + `tab`
-`zf-sidenav` + `tab`
-`zf-subnav` + `tab`
-`zf-breadcrumb` + `tab`
-`zf-pagination` + `tab`
-`zf-orbit` + `tab`
-`zf-clearing` + `tab`
-`zf-button` + `tab`
-`zf-button-group` + `tab`
-`zf-split-button` + `tab`
-`zf-dropdown-button` + `tab`
-`zf-reveal` + `tab`
-`zf-alert` + `tab`
-`zf-panel` + `tab`
-`zf-pricing-table` + `tab`
-`zf-progress-bar` + `tab`
-`zf-accordion` + `tab`
-`zf-tab` + `tab`
+    zf-offcanvas + tab
+    zf-topbar + tab
+    zf-sidenav + tab
+    zf-subnav + tab
+    zf-breadcrumb + tab
+    zf-pagination + tab
+    zf-orbit + tab
+    zf-clearing + tab
+    zf-button + tab
+    zf-button-group + tab
+    zf-split-button + tab
+    zf-dropdown-button + tab
+    zf-reveal + tab
+    zf-alert + tab
+    zf-panel + tab
+    zf-pricing-table + tab
+    zf-progress-bar + tab
+    zf-accordion + tab
+    zf-tab + tab
