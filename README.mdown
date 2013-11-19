@@ -5,8 +5,10 @@
 1. CD into Sublime Text 2 packages folder
 2. Clone repository into packages folder
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
-    git clone https://github.com/ZURB/Foundation-5-sublime-snippets.git
+```powershell
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+git clone https://github.com/ZURB/Foundation-5-sublime-snippets.git
+```
 
 * Each snippet is prefixed with `zf-` (ZURB Foundation).
 * Each snippet is singular, unless the name of the component ends in an s (offcanvas)
